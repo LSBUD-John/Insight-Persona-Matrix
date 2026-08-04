@@ -1,0 +1,327 @@
+[
+  {
+    "id": "householder",
+    "persona": "Householder / member of public",
+    "group": "Public / domestic",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "householder",
+      "homeowner",
+      "garden",
+      "driveway",
+      "fence",
+      "extension",
+      "digging"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "Householder Safe Digging Checklist",
+      "Service Connection Risk Guide"
+    ],
+    "services": [
+      "OneCall Utility Search",
+      "Top-Up Search",
+      "Select Surveys Quote Request"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Public user needing simple guidance and an optional route into OneCall."
+  },
+  {
+    "id": "fencing-contractor",
+    "persona": "Fencing contractor",
+    "group": "Contractor / trades",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "fence",
+      "fencing",
+      "gate",
+      "post holes",
+      "boundary"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "Fencing and Gates Guidance",
+      "Service Connection Risk Guide"
+    ],
+    "services": [
+      "OneCall Utility Search",
+      "Top-Up Search",
+      "Select Surveys Quote Request"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Boundary and post-hole user at high risk from shallow service connections."
+  },
+  {
+    "id": "groundworks-contractor",
+    "persona": "Groundworks contractor",
+    "group": "Contractor / civils",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "groundworks",
+      "excavation",
+      "trench",
+      "foundations",
+      "earthworks"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "HSG47 Plain-English Summary",
+      "PAS128 Summary Guide"
+    ],
+    "services": [
+      "OneCall Utility Search",
+      "Top-Up Search",
+      "PAS128 / GPR Survey Quote",
+      "Vacuum Excavation Request"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Core contractor persona where OneCall remains central and survey conversion is strong."
+  },
+  {
+    "id": "civils-contractor",
+    "persona": "Civils contractor",
+    "group": "Contractor / civils",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "civils",
+      "linear works",
+      "road works",
+      "deep excavation"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "Large Site Guidance",
+      "PAS128 Summary Guide"
+    ],
+    "services": [
+      "Large Site Search",
+      "Comprehensive Premium Search",
+      "Select Surveys Quote Request",
+      "Vacuum Excavation Request"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "High-value buyer for premium and large site service routes."
+  },
+  {
+    "id": "c2-collator",
+    "persona": "C2 pack collator",
+    "group": "Pack / evidence",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "c2 pack",
+      "utility pack",
+      "tender pack",
+      "collating plans"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "C2 Pack Checklist",
+      "Utility Plans Explained",
+      "Top-Up Search Explained"
+    ],
+    "services": [
+      "OneCall Utility Search",
+      "Top-Up Search",
+      "Comprehensive Premium Search",
+      "28-day reminder",
+      "Resubmit enquiry"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Operational doer with strong need for evidence, reminders and resubmission."
+  },
+  {
+    "id": "senior-contractor-manager",
+    "persona": "Senior contractor manager",
+    "group": "Management / decision maker",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "senior manager",
+      "director",
+      "tier 1",
+      "governance",
+      "industry risk"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Executive Safe Digging Briefing",
+      "Incident Prevention Guide",
+      "Industry News Digest"
+    ],
+    "services": [
+      "Pro account",
+      "Select Surveys Quote Request",
+      "Vacuum Excavation Request",
+      "Large Site bundle"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Important decision-maker who may not personally submit enquiries."
+  },
+  {
+    "id": "architect",
+    "persona": "Architect",
+    "group": "Professional / design",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "architect",
+      "design",
+      "planning drawing",
+      "client advice"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "Planning and Environmental Resource Pack",
+      "PAS128 Summary Guide"
+    ],
+    "services": [
+      "OneCall Utility Search",
+      "Top-Up Search",
+      "Comprehensive Premium Search",
+      "Select Surveys Quote Request"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Specifier who can surface utility risk before a client knows a search is needed."
+  },
+  {
+    "id": "utility-surveyor",
+    "persona": "Utility surveyor / PAS128 provider",
+    "group": "Survey / professional",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "utility survey",
+      "pas128",
+      "gpr",
+      "ground penetrating radar",
+      "utility detection",
+      "mark out"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Do I Need a Utility Search?",
+      "PAS128 Summary Guide",
+      "Survey Buyer Guide"
+    ],
+    "services": [
+      "Select Surveys Quote Request",
+      "PAS128 / GPR Survey Quote",
+      "Partner lead routing",
+      "OneCall Utility Search"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Service-provider persona that informs the data needed in quote forms."
+  },
+  {
+    "id": "environmental-consultant",
+    "persona": "Environmental consultant",
+    "group": "Environmental / consulting",
+    "purchasingAuthority": "Varies by organisation",
+    "matchKeywords": [
+      "environmental",
+      "ecology",
+      "open water",
+      "constraints",
+      "watercourse",
+      "drainage"
+    ],
+    "oneCallCategories": [
+      "Utility Works",
+      "Domestic Works (General public)",
+      "Planning Applications"
+    ],
+    "guidance": [
+      "Safe Digging Essentials",
+      "Environmental Restrictions Guide",
+      "Open Water Proximity Guide",
+      "Watercourses and Drainage Guidance"
+    ],
+    "services": [
+      "Environmental Constraints Report",
+      "Open Water Proximity Risk Report",
+      "Comprehensive Premium Search",
+      "OneCall Utility Search"
+    ],
+    "accessModes": [
+      "Guest guidance",
+      "Login for site-specific actions"
+    ],
+    "proPotential": "Medium",
+    "summary": "Specialist persona for constraints-led recommendations."
+  }
+]
